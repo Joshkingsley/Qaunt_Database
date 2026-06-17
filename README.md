@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Repository Description**
 
 An open-source quantitative research ecosystem dedicated to building, testing, and validating 3,000 computational models. We bridge academic theory and applied statistical execution through rigorous distribution analysis, explicitly challenging the "confluence fallacy" in classical system design. To ensure accessibility for different research pipelines, all strategy blueprints and statistical validations are provided in both Python (via Jupyter Notebooks) and R, allowing you to choose the environment that best fits your workflow.
@@ -85,3 +86,7 @@ If you are a student, researcher, or engineer interested in challenging these di
 * **Organization:** CyberNet Africa.
 * **LinkedIn:** https://www.linkedin.com/in/joshua-kingsly101/
 * **Email:** kingsleymwangi05@gmail.com
+=======
+# Qaunt_Database
+An open-source quantitative research ecosystem dedicated to building, testing, and validating 3,000 computational models. We bridge academic theory and applied statistical execution through rigorous distribution analysis, explicitly challenging the "confluence fallacy" in classical system design. 
+>>>>>>> e614aaffee59bd9faa0b1df3265b19fe829be589
